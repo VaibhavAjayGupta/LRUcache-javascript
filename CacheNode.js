@@ -6,3 +6,5 @@ class CacheNode {
     this.previous = null;
   }
 }
+
+export default CacheNode;
