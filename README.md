@@ -1,2 +1,2 @@
 # LRUcache-javascript
-LRUCache in javascript
+LRUCache implemted in vanilla javascript.
